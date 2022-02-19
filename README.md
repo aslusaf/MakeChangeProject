@@ -15,6 +15,8 @@ This is a program to calculate change for a purchase.
 - Floating-point arithmetic must be handled with care
 
 #### Technologies Used:
+Java {
+
 - Methods
 - Scanners
 - Switches
@@ -23,3 +25,6 @@ This is a program to calculate change for a purchase.
 - Arrays
 - Ternary Operators
 - printf formatting
+- Method Overloading
+
+}
